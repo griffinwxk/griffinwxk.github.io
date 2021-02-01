@@ -38,7 +38,7 @@ Satake in Spring 2018.
 
 ## Misc.
 - [CV](files/cv.pdf).
-- I have become a Nazgûl, and ever been a servant for carrying out my Lord Sauron's Schemes, particularly the Final Object: the [One Ring](onering.pdf) to rule us all.
+- I have become a Nazgûl, and ever been a servant for carrying out my Lord Sauron's Schemes, particularly the Final Object: the [One Ring](files/onering.pdf) to rule us all.
 - I'm a gamer. The games I have been ~~wasting hundreds of hours on~~ enjoying
     - math (currently a professional player)
     - The Legend of Zelda Breath of the Wild 
